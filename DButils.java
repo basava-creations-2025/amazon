@@ -1,5 +1,6 @@
 Hello Guys...
 This file contains the DB related code.
+<<<<<<< HEAD
  HEAD
 This line is going to updated now..
 Hello updated this line..
@@ -9,4 +10,9 @@ Hell..added this line..
 Hello ..updated this line..
 Hello ..added this line in dev barnch..
  development
+=======
+Hell..added this line..
+Hello ..updated this line..
+Hello ..added this line in dev barnch..
+>>>>>>> f54763a (Updated..)
 
