@@ -14,5 +14,6 @@ Hello ..added this line in dev barnch..
 Hell..added this line..
 Hello ..updated this line..
 Hello ..added this line in dev barnch..
->>>>>>> f54763a (Updated..)
+f54763a (Updated..)
 
+    PR Demo..added this line..
